@@ -40,6 +40,7 @@
 										<div class="navbar-collapse collapse">
 											<ul class="nav navbar-nav">
 												<li class="menuItem"><a href="#banner">Home</a></li>
+												<li class="menuItem"><a href="#publications">Publications</a></li>
 												<li class="menuItem"><a href="#internships">Internships</a></li>
 												<li class="menuItem"><a href="#education">Education</a></li>
 												<li class="menuItem"><a href="#gallery">Projects</a></li>
@@ -58,7 +59,7 @@
 		<div class="container">
 			<div class="heading text-center">			
 				<h2>About Me</h2>				
-				<p><br>I am a final year undergraduate student in the Department of Computer Science and Engineering, of the <b>Indian Institute of Technology, Guwahati</b> with a minor in Product Design with the Department of Design.</p>
+				<p><br>I am a Software Engineer (Research) currently working with <b>Advanced Tech Labs of Samsung Research Institute, Bangalore</b>. I did my B.Tech. from <b>Indian Institute of Technology, Guwahati</b> with a Bachelors' thesis in Computer vision and a minor in Product Design.</p>
 				<p><br>I believe myself to be a strong-willed, responsible and pragmatic person. To feed my curiosity with the abilites of computers, I always thrived to expose myself to a myriad of paradigms that together constitute computer science.
 					I love to travel and <a href = "#photos">capture moments</a> with my camera.</p>
 				<p><br>If you wish to know more about me, download my <a href="img/Paritosh_Mittal_Resume.pdf" download="Paritosh_Mittal_Resume"><u>Resume</u></a>.</p> 
@@ -69,7 +70,39 @@
 
 	</section>
 
-
+		<section class="feedback" id="publications">
+		<div class="container">
+			<div class="heading">
+				<h2>Publications</h2>
+				<h3></h3>
+			</div>
+			<div class="row">
+					<div class="skills">
+						<h3 class="main text-center">Image Memorability: The role of Motion and Depth</h3>
+						<div class="restitem clearfix">
+							<div class="rm-thumb" style="background-image: url(img/imgs/17.jpg)">
+							</div>
+							<h5 align = "center">International Conference on Image Processing (ICIP) 2018</h5>
+							 <br>
+							 <p> We analyzed the role of motion and depth cues in determining how memorable or forgettable (using Image Memorability) a particular image is. We use an ensemble based deep neural network to predict the Image Memorability scores using deep object, motion and depth features and achieve a rank correlation of 0.65 on LaMem dataset which is very close to human consistency.
+							 You can read the entire paper <a href="https://ieeexplore.ieee.org/document/8451334" target="_blank"> here</a></p>
+						</div>
+					</div>
+			</div>
+				<div class="row">
+					<div class="skills">
+						<h3 class="main text-center">Misbehavior Detection in C-ITS Using Deep Learning Approach</h3>
+						<div class="restitem clearfix">
+							<div class="rm-thumb" style="background-image: url(img/imgs/18.png)">
+							</div>
+							<h5 align = "center">International Conference on Intelligent Systems Design and Applications (ISDA) 2018</h5>
+							<br>
+							<p>This work revoles around the use of data driven Artificial Intelligence to predict traffic node misbehavior in Cooperative - Intelligent Transportation Systems (C-ITS). A misbehaving node can feed malicious information like wrong traffic congestion details to centralized server. We use Deep Learning to predict anomalies by measuring deviation from expected (predicted) traffic congestion readings.<!-- You can read the full paper <a href =" ">here</a>.-->  </p>
+						</div>
+					</div>
+				</div>
+		</div>	
+		</section>
 		<section class="feedback" id="internships">
 		<div class="container">
 			<div class="heading">
@@ -127,10 +160,10 @@
 				<div class="text-center">
 					<div class="hi-icon-wrap hi-icon-effect">												
 						<h4>BACHELORS OF TECHNOLOGY</h4>
-						<h5>2014 - Ongoing</h5>
+						<h5>2014 - 2018</h5>
 						<i class="fa fa-laptop"></i>
 						<p><b>Computer Science and Engineering</b> with the Indian Institute of Technology Guwahati.</p>
-						<p> <b>CPI:</b> 8.42/10.0 (uptill Sixth Semester)
+						<p> <b>CPI:</b> 8.60/10.0 (Without Minor)
 					</div>
 				</div>	
 			</div>
@@ -178,11 +211,30 @@
 				<div class="col-md-6">
 					<div class="skills">
 						<h3 class="main text-center">Bachelor Thesis Project</h3>
+							<h5 align="center">Image Memorability</h5>
+							<br>
+							<p> I studied the role of motion and depth information from single images to predict the memorability scores. We finally proposed a deep learning model that used motion and depth cues together with 
+							deep object features to predict image memorability.</p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="skills">
+						<h3 class="main text-center">Artificial Intelligence Project</h3>
+							<h5 align="center"> Multi - Agent Reinforcement Learning</h5>
+							<br>
+							<p> We tested and analyzed various Reinforcement Learning algorithms like DQN, DRQN, A2C and MADDPG on centralized and distributed environments for <b>Multi Agent</b> predator prey game in gridworld setting.
+							</p>
+					</div>
+				</div>
+			</div>
+			<br>
+			<div class="row">
+				<div class="col-md-6">
+					<div class="skills">
+						<h3 class="main text-center">Computer Vision Lab</h3>
 							<h5 align="center">Single Image Reflection Suppression</h5>
 							<br>
-							<p> We are currently working with Generative Adversarial Networks to build a deep learning based end to end model for reflection removal from single images. Reinforcement
-								Learning will be a part of the project as a stocastic blurring model for reflection suppression is under development. 
-							</p>
+							<p> Attempted the problem of removing reflections from single images using Deep Learning. We used a gradient based approach to identify regions containing reflections and then use selective blurring to suppress them. Attempted the use of <b>Generative Adversarial Networks and Conventional CNN</b> based models to mark regions having reflections.</p>
 					</div>
 				</div>
 				<div class="col-md-6">
@@ -515,7 +567,7 @@
 							<div class="rm-thumb" style="background-image: url(img/imgs/9.png)">
 							</div>
 							<h5>Tensorflow</h5>
-							<p>Proficient in use of tensorflow library for creating deep neural archtecture. With Bachelor Thesis project, summer research Intern and a course project on Deep Learning in Computer Vision, achieved considerable proficiancy in use of tensorflow.
+							<p>Proficient in use of tensorflow library for creating deep neural archtecture. With various ongoiong projects in Samsung, Bachelor Thesis project, summer research Intern and a few course projects on Deep Learning, achieved considerable proficiancy in use of tensorflow.
 							</p>
 						</div>
 						<div class="restitem clearfix">
