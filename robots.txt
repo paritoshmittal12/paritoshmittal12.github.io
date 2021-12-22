@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://paritoshmittal12.github.io/sitemap.xml

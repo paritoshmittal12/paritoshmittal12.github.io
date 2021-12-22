@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undergrad | Academic</title>
+    <link>https://paritoshmittal12.github.io/tag/undergrad/</link>
+      <atom:link href="https://paritoshmittal12.github.io/tag/undergrad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Undergrad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paritoshmittal12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Undergrad</title>
+      <link>https://paritoshmittal12.github.io/tag/undergrad/</link>
+    </image>
+    
+    <item>
+      <title>Video Recommender System</title>
+      <link>https://paritoshmittal12.github.io/project/video-application/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/video-application/</guid>
+      <description>&lt;p&gt;Web application using MongoDB, Neo4j and MySQL was developed that displayed videos to users. Users to search, watch, like and subscribe to videos and all activity was logged in MySQl tables. Relationships in Neo4j were used to suggest similar videos. Application had features like advanced searchbox, word correction etc.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hunger Games</title>
+      <link>https://paritoshmittal12.github.io/project/hunger-games/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/hunger-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java Multi-Threading</title>
+      <link>https://paritoshmittal12.github.io/project/multi-threading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/multi-threading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logic Programming</title>
+      <link>https://paritoshmittal12.github.io/project/logic-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/logic-programming/</guid>
+      <description>&lt;p&gt;To get familiarized with logic programming three small applications were developed. A logical database search program for details of research scholars and an uncle, halfsister relationship validator was developed. The backtracking based solution for optimal path in maze problem was implemented in SWI-Prolog.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

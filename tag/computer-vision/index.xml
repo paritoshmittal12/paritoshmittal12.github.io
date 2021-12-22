@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | Academic</title>
+    <link>https://paritoshmittal12.github.io/tag/computer-vision/</link>
+      <atom:link href="https://paritoshmittal12.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paritoshmittal12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer Vision</title>
+      <link>https://paritoshmittal12.github.io/tag/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Non-sequential Autoregressive Shape Priors for 3D Completion, Reconstruction and Generation</title>
+      <link>https://paritoshmittal12.github.io/project/3d-generation/</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/3d-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverting 3D Deep Learning Architectures</title>
+      <link>https://paritoshmittal12.github.io/project/model-inversion/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/model-inversion/</guid>
+      <description>&lt;p&gt;Several applications of computer vision e.g. autonomous driving, warehouse management etc. are nearing deployment in real-world. However these approaches critically depend on &amp;lsquo;black-box&amp;rsquo; 3D neural networks. Interpreting and understanding these networks is an important and challenging problem for vision community. This project attempts to interpret the learning of 3D neural networks through the lens of model inversion. Specifically, we investigate what a 3D model learns by trying to re-create an optimal input based on a perceived &amp;lsquo;output&amp;rsquo;. Recent methods present solutions for inverting classification and detection networks, but only for 2D inputs. This project extend these approaches to 3D which is significantly more complex and ill-posed. We showcase results on inversion of 3D deep learning architectures for classification and detection and further analyse our findings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D reconstruction using Stereo Correspondence</title>
+      <link>https://paritoshmittal12.github.io/project/3d-reconsturction/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/3d-reconsturction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homography and Panaroma</title>
+      <link>https://paritoshmittal12.github.io/project/homography/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/homography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scene Classification using Visual Words</title>
+      <link>https://paritoshmittal12.github.io/project/visualwords/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/project/visualwords/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
