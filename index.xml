@@ -5,12 +5,34 @@
     <link>https://paritoshmittal12.github.io/</link>
       <atom:link href="https://paritoshmittal12.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paritosh Mittal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paritoshmittal12.github.io/media/icon_hub5bd98d011519bcb0bd5effa82a34bf7_355093_512x512_fill_lanczos_center_3.png</url>
       <title>Paritosh Mittal</title>
       <link>https://paritoshmittal12.github.io/</link>
     </image>
+    
+    <item>
+      <title>Non-sequential Autoregressive Shape Priors for 3D Completion, Reconstruction and Generation</title>
+      <link>https://paritoshmittal12.github.io/publication/2021/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://paritoshmittal12.github.io/publication/2021/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Non-sequential Autoregressive Shape Priors for 3D Completion, Reconstruction and Generation</title>
@@ -35,28 +57,6 @@
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://paritoshmittal12.github.io/project/model-inversion/</guid>
       <description>&lt;p&gt;Several applications of computer vision e.g. autonomous driving, warehouse management etc. are nearing deployment in real-world. However these approaches critically depend on &amp;lsquo;black-box&amp;rsquo; 3D neural networks. Interpreting and understanding these networks is an important and challenging problem for vision community. This project attempts to interpret the learning of 3D neural networks through the lens of model inversion. Specifically, we investigate what a 3D model learns by trying to re-create an optimal input based on a perceived &amp;lsquo;output&amp;rsquo;. Recent methods present solutions for inverting classification and detection networks, but only for 2D inputs. This project extend these approaches to 3D which is significantly more complex and ill-posed. We showcase results on inversion of 3D deep learning architectures for classification and detection and further analyse our findings.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Non-sequential Autoregressive Shape Priors for 3D Completion, Reconstruction and Generation</title>
-      <link>https://paritoshmittal12.github.io/publication/2021/</link>
-      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://paritoshmittal12.github.io/publication/2021/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
